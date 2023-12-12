@@ -1,4 +1,4 @@
 # test-repository
 ```javascript
-  bim-bim bam-bam
+  let bim-bim = `bam-bam`
 ```
